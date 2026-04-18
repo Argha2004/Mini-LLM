@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual env
+llm/
+venv/
+
+# Data
+data/raw/
+data/processed/
+
+# Tokenizer
+tokenizer/*.model
+tokenizer/*.vocab
+
+# Checkpoints
+checkpoints/
+*.pt
+
+# Logs
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
