@@ -101,7 +101,7 @@ pip install -r requirements.txt
 
 ## 📚 Dataset
 
-Uses **OpenWebText** (public web corpus).
+Uses **SlimPajama-6B** (public web corpus).
 
 Download dataset:
 
