@@ -88,7 +88,7 @@ Mini-LLM/
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/Mini-LLM.git
+git clone https://github.com/Argha2004/Mini-LLM.git
 cd Mini-LLM
 
 python -m venv llm
